@@ -1,7 +1,7 @@
 @media screen and (max-width: 1400px) {
     /* Adjustments for max-width 1400px */
      #page1>nav{
-      padding:3vw;
+      padding:0vw;
   }
     #pic1>img {
         top: 219%;
