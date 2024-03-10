@@ -338,8 +338,8 @@ cursor: pointer;
   left: 50%;
   transform: translate(-50%,-50%);
   z-index: 9;
-  height: 30vw;
-  width: 30vw;
+  height: 28vw;
+  width: 28vw;
   border-radius: 50%;
   border: 1px solid #fff;
 }
