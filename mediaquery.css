@@ -1,0 +1,224 @@
+@media screen and (max-width: 1400px) {
+    /* Adjustments for max-width 1400px */
+    #pic1>img {
+        top: 289%;
+        left: 245%;
+        height: 209px;
+        width:209px;
+    }
+    #page1>nav>img {
+        margin-left: 2.5vw;
+        width: 18%;
+    }
+    .bottom-page1>h1{
+        margin-left: 22%;
+        display:inline-block;
+        margin-top: -30%;
+        font-size: 2em;
+        white-space: nowrap;
+    }
+    .whatsappicon{
+      height:9vh;
+      width:8.9vw;
+      margin-right: -15vw;
+      margin-top: 1.00vh;
+      
+    }
+    #whatsappbtn{
+      background-color: transparent;
+      border: none;
+    }
+   
+    .bottom-page1-inner>button {
+        margin-left: 76px;
+        height: 57px;
+        width: 166px;
+    }
+
+    .bottom-page1-inner>button{
+        font-size: 22px;
+        white-space: nowrap;
+       
+    }
+    #about>h1 {
+        left: 50%;
+        font-size: 2.5vw;
+        
+    }
+    .bottom-page1 h2{
+        font-size: 7.5vw;
+        bottom: 141px;
+        margin-left: 69px;
+        white-space: nowrap;
+    }
+
+
+/*                           page 2                             */
+    
+#page2>h2{
+    font-size: 7.5vw;
+}
+#page2>h1{
+    font-size: 5.9vw;
+}
+
+/*                           page 3                             */
+.about-pic {
+      height: 29vh; 
+      width: 49vw;
+      margin-top:13%;
+      margin-left:-49.3%;
+    }
+      .icon{
+        height: 31px;
+        width: 31px;
+        margin-left:2%;
+        margin-bottom:4% ;
+      }
+      .tcontainer>h3{
+        margin-bottom: 1%;
+      }
+      .tcontainert>h3{
+        margin-bottom: 1%;
+      }
+      #wrap{
+       margin-left: -12.9vw; 
+       margin-top: 21vh;     
+      }
+      .tcontainer{
+        margin-left: -15%;
+      }
+      .tcontainert{
+        margin-left: 17%;
+      }
+      .tcontainer, .tcontainert{
+        width: 380px;
+       height: 150px;
+      }
+    #about>p{
+      left: 22.5%;
+       margin-bottom: 2.5%; 
+        font-size: 7vw;
+    }
+    #about>h1{
+      left: 40%;
+        font-size: 3.9vw;
+    }
+    #para>h1{
+       font-size: 2.9vw;
+       margin-top: -47%;
+    }
+    
+/*                      page4                           */
+ 
+.page4-cir{
+
+  top:51.5vh;
+  left:50vw;
+  height: 47vw;
+  width: 47vw;
+  border-radius: 50%;
+  border: 1px solid #fff;
+}
+/*                      page5                           */
+#pagefive>p{
+    left: 33%;
+    font-size: 7vw;
+}
+#pagefive>h1{
+    left: 40.5%;
+    font-size: 3.9vw;
+}
+.wrap{
+    margin-top: -35px;
+    margin-bottom: -1px;
+}
+  .Fcontainer {
+    width: 75%;
+    height: 45%;
+    margin: 23px auto 2 auto;
+    margin-bottom: -27px;
+  }
+ 
+  .article-container{
+    padding: 03px;
+    margin-left: -2%;
+  } 
+.icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 4px;
+}
+
+.skillcont h3 {
+    font-size: 13px;
+}
+/*                      page5                           */
+
+  .card {
+    width: 10em;
+    height: 70%;
+    padding: 2em 1em;
+    margin: 0 0.8em;
+  }
+
+  .card__image {
+    width: 7.5em;
+    height: 7.5em;
+    margin-bottom: 1.5em;
+  }
+  
+  #circle{
+    width: 6em;
+    height: 6em;
+    border-radius: 50%;
+    margin-bottom: 2em;
+  }
+  
+  
+  .card__content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+  }
+  
+  .card__title {
+    font-size: 0.9rem;
+    top: -.9em;
+    white-space: nowrap;
+  }
+  
+  .card__name {
+    line-height: 2.5px;
+  }
+  
+  .card__text {
+    font-size: 0.9rem;
+    margin: 1em 0;
+  }
+  
+  .card__btn {
+    font-size: 0.6rem;
+  }
+
+
+/*                      page7                    */
+
+#pagepre7{
+   
+    height: 23vh;
+    padding: 9vw 11vw;
+}
+#pagepre7>h1{
+    font-size: 6vw;
+    
+}
+#emailButton{
+   font-size: 2.5vw;
+}
+#page7 {
+    height: 41vh;
+    
+}
+}
