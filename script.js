@@ -21,6 +21,35 @@ window.addEventListener("mousemove", function(e) {
 });
 
 
+//                                    GSAP ANIMATION                                        //
+var tl=gsap.timeline();
+tl.from(".gsap1",{
+  y:-50,
+  opacity:0,
+  delay:0.5,
+  // duration:1
+
+})
+tl.from("#whatsappbtn",{
+  y:-50,
+  opacity:0
+  
+})
+
+tl.from(".call-button",{
+  y:-50,
+  opacity:0
+ 
+})
+tl.from(".gsap2",{
+  x:-50,
+  opacity:0,
+  delay:0.5,
+  // duration:1
+
+})
+
+
 //               locomotive effect                //
 function loco(){
     gsap.registerPlugin(ScrollTrigger);
