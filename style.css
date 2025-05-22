@@ -226,7 +226,7 @@ cursor: pointer;
     height: 103vh;
     width: 100vw;
     position: relative;
-    background-color:#0939C1;
+    background-color:#45474a;
   }
   #wrap{
     display: flex;
@@ -342,7 +342,7 @@ cursor: pointer;
     position: relative;
     height: 89vh;
     width: 100vw;
-    background-color: #093DCD;
+    background-color: #404143;
 }
 #future{
     overflow: hidden;
@@ -439,7 +439,7 @@ cursor: pointer;
 #page6 {
     font-family: 'Poppins', sans-serif;
     height: 100vh;
-    background-color: #093DCD;
+    background-color: #363738;
 }
 #page6>p{
   left: 40.5%;
